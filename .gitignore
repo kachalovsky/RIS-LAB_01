@@ -8,5 +8,6 @@ CLIENT_U/CLIENT_U/Debug
 CLIENT_U/CLIENT_U/Release
 SERVER_U/\.vs
 CLIENT_U/\.vs
-.db
-.opendb
+*.db
+*.opendb
+*.sln
