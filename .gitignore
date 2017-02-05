@@ -1,0 +1,12 @@
+SERVER_U/Debug
+SERVER_U/Release
+CLIENT_U/Debug
+CLIENT_U/Release
+SERVER_U/SERVER_U/Debug
+SERVER_U/SERVER_U/Release
+CLIENT_U/CLIENT_U/Debug
+CLIENT_U/CLIENT_U/Release
+SERVER_U/\.vs
+CLIENT_U/\.vs
+.db
+.opendb
